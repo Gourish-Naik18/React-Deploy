@@ -4,10 +4,10 @@ function Table({handleSubmit}) {
 
   const[data,setData] = useState([
     {id:1,name:"soap",brand:"santoor",price : 20.0},
-    {id:2,name:"soap",brand:"santoor",price : 20.0},
-    {id:3,name:"soap",brand:"santoor",price : 20.0},
-    {id:4,name:"soap",brand:"santoor",price : 20.0},
-    {id:5,name:"soap",brand:"santoor",price : 20.0}
+    {id:2,name:"shoe",brand:"one8",price : 2000.0},
+    {id:3,name:"shirt",brand:"adidas",price : 350.0},
+    {id:4,name:"watch",brand:"rolex",price : 200000.0},
+    {id:5,name:"phone",brand:"apple",price : 300000.0}
   ])
 
   return (

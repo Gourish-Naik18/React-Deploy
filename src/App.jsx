@@ -1,6 +1,6 @@
 import { Route, Routes, useNavigate } from "react-router-dom"
 import Table from "./Table"
-import Message from "./message"
+import Message from "./Message"
 
 function App() {
 
